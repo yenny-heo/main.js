@@ -1,2 +1,2 @@
 # main.js
-nodejs 공부
+nodejs로 게시판 만들기
